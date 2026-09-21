@@ -1,0 +1,6 @@
+@umfg.programacaoiii.mininalapi2026_HostAddress = http://localhost:5129
+
+GET {{umfg.programacaoiii.mininalapi2026_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
